@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyModularApplication</string>
+    <string name="title_addmodule">add</string>
+</resources>
